@@ -1,0 +1,58 @@
+ /$$   /$$           /$$          
+| $$  | $$          | $$          
+| $$  | $$  /$$$$$$ | $$  /$$$$$$ 
+| $$$$$$$$ /$$__  $$| $$ /$$__  $$
+| $$__  $$| $$$$$$$$| $$| $$  \ $$
+| $$  | $$| $$_____/| $$| $$  | $$
+| $$  | $$|  $$$$$$$| $$| $$$$$$$/
+|__/  |__/ \_______/|__/| $$____/ 
+                        | $$      
+                        | $$      
+                        |__/      
+
+
+*Add to saved chords by using "s" command in practice mode or by using "a" command to manually save a chord in initial view of saved mode.
+
+*Saved chords are displayed alphabetically under the saved mode in v1.0.
+
+*Saved chords can be deleted by using the "d" command when viewing them in saved mode.
+
+
+fig. 1
+                             [READING THE DIAGRAMS]
+          	                F Major 7 --->Chord Name
+Thinnest string      e|-----|-----|-----|-----|----------(O)--->String played Open
+                     B|-[1]-|-----|-----|-----|----------
+                     G|-----|-[2]-|-----|-----|----------
+ String key -----> {D}|-----|-----|-[3]====================>Finger to be used(see fig. 2)
+                     A|-----|-----|-----|-----|----------(X)
+Thickest string      E|=====|=====|=====|=====|==========(X)--->String not played
+                         1     2     3     4----->Fret Number
+
+
+fig. 2
+            [1]     [2]  [3]    [4]
+
+		    XXX              
+            XXXX   X  X   XX        
+            X   X  X  X  XXXX       
+            X   X  X  X  X  X       
+            X   X  X  X  X  X       
+            X   X  X  X  X  X    XXX
+            X   X X   X  X  X   XX X
+            X   X X   X  X  X   X  X
+ XXXXX      X   X X   X  X  X   X XX
+ X    XX    X   X X   X  X  X  X  X 
+ XX   XXX   X   X X   X X   XXXX XX 
+  X     XX  X   XXX   XXX        X  
+  XX     XXXX                   XX  
+   XXX          X              XX   
+     XX         XX             X    
+      XX         X            XX    
+       XX        X           X     
+        X      XX            X     
+        X      X             X     
+        X                    X     
+        X                    X    
+	       Palm-Side
+Questions? Contact: chordpractice@email.com
